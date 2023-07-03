@@ -18,3 +18,6 @@ Analysis of the Credit-Card-Transactions data according to the Spending Habits i
 6.	Write a query to find the percentage contribution of spends by females for each expense type.
 7.	Which card and expense type combination saw the highest month-over-month growth in Jan-2014?
 8.	During weekends, which city has the highest total spend to total number of transactions ratio.
+
+## For the Powerbi Interactive portfolio - visit my [Data Visualization Portfolio]
+( https://www.novypro.com/profile_projects/adityashankar )
