@@ -3,8 +3,10 @@
 ## Project by Aditya Shankar ( [Linkedin]-( https://www.linkedin.com/in/aditya-shankar-076152169/ )
 ## About the Dataset 
 Analysis of the Credit-Card-Transactions data according to the Spending Habits in India.
-#This set of data was obtained from – Kaggle
-link of the dataset-( https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india )
+
+##This set of data was obtained from – Kaggle.
+
+  link of the dataset-( https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india )
 
 ## Problem Statements / Queries Executed-
 1.	Write a query to print the top 5 cities with the highest spends and their percentage contribution to  the total credit card spends.
