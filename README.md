@@ -1,6 +1,6 @@
 # SQL-Data-Analysis-on-"Credit-Card-Transactions".
 
-## Project by Aditya Shankar ( [Linkedin]-( https://www.linkedin.com/in/aditya-shankar-076152169/ )
+### 📊 Data Analysis Project 📈( [Linkedin]-( https://www.linkedin.com/in/aditya-shankar-076152169/ )
 ## About the Dataset 
 Analysis of the "Credit-Card-Transactions" data according to the Spending Habits in India.
 
