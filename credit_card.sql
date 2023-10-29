@@ -42,7 +42,7 @@ it reaches a cumulative of 1000000 total spends (result should have 4 rows in th
 with temp1 as
 (
 select *,
-sum(Amount) over(partition by Card_Type order by amount)as cumulative_sum 
+sum(Amount) over(partition by Card_Type order by indexs)as cumulative_sum 
 from credit_card
 ),
 temp2 as 
